@@ -3,6 +3,7 @@
 <li><i>If you want to see the deployed model, click here: </i>https://movies-recommend-deployment.herokuapp.com/</li>
 <li><i>If you want to have a look at the code and algorithms, click the link below: </i></li>
 https://github.com/harshit711/Machine-Learning-Projects/tree/main/Movie-Recommendation-System
+<li><i>The app may take some time to load. Kindly be patient!</i></li>
 <li><i>Below are the few snippets from the website</i></li>
 </ul>
 <img src="https://github.com/harshit711/Movies-Recommendation-System-Deployment/blob/main/Readme%20files/website1.png" alt="website">
